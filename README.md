@@ -1,0 +1,20 @@
+## sys_tssi_64_armv82_tecno-user 13 TP1A.220624.014 354269 release-keys
+- Manufacturer: tecno
+- Platform: mt6768
+- Codename: TECNO-KI7
+- Brand: TECNO
+- Flavor: sys_tssi_64_armv82_tecno-user
+- Release Version: 13
+- Kernel Version: 4.19.191
+- Id: TP1A.220624.014
+- Incremental: 230615V2799
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: true
+- Treble Device: true
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: TECNO/KI7-GL/TECNO-KI7:12/SP1A.210812.016/230615V2244:user/release-keys
+- OTA version: 
+- Branch: sys_tssi_64_armv82_tecno-user-13-TP1A.220624.014-354269-release-keys
+- Repo: tecno_tecno-ki7_dump

@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=TECNO
+ro.product.bootimage.device=TECNO-KI7
+ro.product.bootimage.manufacturer=TECNO
+ro.product.bootimage.model=TECNO KI7
+ro.product.bootimage.name=KI7-GL
+ro.product.bootimage.tran.device.name.default=
+ro.bootimage.build.date=Thu Jun 15 02:58:51 CST 2023
+ro.bootimage.build.date.utc=1686769131
+ro.bootimage.build.fingerprint=TECNO/KI7-GL/TECNO-KI7:12/SP1A.210812.016/230615V2244:user/release-keys
+ro.bootimage.build.id=SP1A.210812.016
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=230615V2244
+ro.bootimage.build.version.release=12
+ro.bootimage.build.version.release_or_codename=12
+ro.bootimage.build.version.sdk=31
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
